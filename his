@@ -1,0 +1,17 @@
+../unix/
+├── addressbook
+├── a.out
+├── cutlist1
+├── cutlist2
+├── dept.lst
+├── desigx.lst
+├── emp.lst
+├── his
+├── numfile
+├── shortedlist
+├── shortlist
+├── shortlist2
+├── test.cpp
+└── uniqlist
+
+0 directories, 14 files
